@@ -1,6 +1,9 @@
 ###响应式项目-结合第五大道和自己的元素加入的电商网站-西安小组
-上线地址：www.bianjiangwei.top/diwudadao/index.html
-github地址：https://github.com/bjw666/diwudadao-item
+
+	上线地址：www.bianjiangwei.top/diwudadao/index.html
+	
+	github地址：https://github.com/bjw666/diwudadao-item
+	
 小组成员：
 	组长：边江伟
 	组员：李斌、李子明
